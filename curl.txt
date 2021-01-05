@@ -1,0 +1,2 @@
+ANother example curl but better:
+curl -H "Content-Type: application/graphql" "localhost:8080/graphql" -XPOST --data-binary '@query.graphql' --trace log.log
