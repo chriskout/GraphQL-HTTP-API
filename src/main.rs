@@ -1,6 +1,5 @@
-use http_req::request;
-mod http_api
+mod http_api;
 
 fn main() {
-    response = http_api::loadSchema("No Filename yet")
+   let res : http_req::response::Response =  http_api::loadSchema("No Filename yet");
 }
