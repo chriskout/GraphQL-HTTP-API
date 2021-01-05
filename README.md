@@ -6,7 +6,9 @@
 
 `http_api.rs` -- Started making some http calls.
 
-`main.rs` -- For running the API calls. *.schema -- Target files for HTTP calls (look at .txt files for example of use). Do not think this will be the final way to do things but it works for now.
+`main.rs` -- For running the API calls. 
+
+`*.schema` -- Target files for HTTP calls (look at .txt files for example of use). Do not think this will be the final way to do things but it works for now.
 
 ### Documentation:
 `https://dgraph.io/docs/graphql/` -- General Dgraph 
